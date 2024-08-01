@@ -1,0 +1,86 @@
+<!doctype html>
+<html>
+	<head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DHX9FD5RTS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DHX9FD5RTS');
+</script>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+
+
+		<title>Control Architectures Theory (CAT) Workshop - CDC 2024</title>
+		<!-- Il link sotto include lo stile -->
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<style>
+			h3 {
+				margin-bottom: 5px; /* Adjust this value as needed */
+			}
+		</style>
+
+	</head>
+
+
+	<body>
+
+		<h1>Control Architectures Theory (CAT) Workshop - CDC 2024</h1>
+
+		<!-- <img src=pic.JPG style="height:230px;width:50%;float:right;"/> -->
+
+		<!--<p class="bounded">-->
+
+		
+		<h3>Organizers</h3>
+		<a href="http://ames.caltech.edu"> Aaron Ames </a>(Caltech), <a href="https://nikolaimatni.github.io"> Nikolai Matni </a> (UPenn), <a href="https://zardini.mit.edu"> Gioele Zardini </a> (MIT)<br>
+		<b>Contact</b>: <a href="mailto:gzardini@mit.edu"> gzardini@mit.edu </a><br> 
+
+		<h3>Relevant Links</h3>
+		<ul>
+			<li><a href="https://cdc2024.ieeecss.org"> IEEE CDC 2024 Webpage </a></li>
+			<li><a href="https://cdc2024.ieeecss.org/registration"> IEEE CDC 2024 Registration </a></li>
+		</ul>
+
+		<h3>Motivation and Objectives</h3>
+		The design and control of complex systems stands out as one of the paramount challenges of this century.
+Such systems are labeled as complex not only due to the intricacies of their individual components, but
+also because their functioning hinges on complex interactions among these components, across domains and
+scales. To give a sense of the kind of systems we are interested in, think about the complex circuit governing
+a sensor employed in autonomous driving context, and autonomous vehicle which leverages the sensor, as
+well as a number of other complex hardware and software components within the autonomy stack, a fleet
+of autonomous vehicles of this kind, deployed and controlled following certain objectives, and interacting
+via a complex patterns, and a mobility system leveraging Autonomous Mobility-on-Demand (i.e., the fleet)
+systems as well as standard transit options. Each of these subsystems is complex to design and control per
+se, and is influenced and influences other ones at different scales.
+In this workshop we are driven by the need for a robust theory concerning layered control architectures
+(LCAs) across various complex systems, ranging from power systems and communication networks to autonomous
+robotics, bacteria, and human sensorimotor control. Such systems exhibit exceptional capabilities,
+yet lack a cohesive, compositional theory for analysis and design, primarily due to their diverse domains.
+Conversely, there exists a fundamental set of control concepts and theories which are universally applicable
+and can accommodate domain-specific adaptations. In this context, however, control methods are often
+limited to work for individual components of larger systems, lacking comprehensive theoretical foundations.<br><br>
+
+Although fragments of a control architecture theory have emerged across disparate disciplines and domains,
+a unified theory and community are lacking. Against this backdrop, the objective of this workshop is to cultivate a new interdisciplinary community
+which considers control architectures and systems theory as a central focus of study. In particular, we will
+bring together experts from a wide range of disciplines, spanning robotics, control, applied mathematics,
+systems biology, aerospace, etc., with the goal of establishing a common language and core set of challenge
+problems and techniques.
+A key outcome of the workshop will be a white paper laying out a research program in this area.
+
+		<h3>Tentative Program</h3>
+		The workshop (full day) will consist of a morning and afternoon session with talks from diverse speakers (both from
+academia and industry), and will conclude with a panel.
+Speakers/panelists include Aaron Ames (Caltech), Domitilla Del Vecchio (MIT), John Doyle (Caltech), Florian Doerfler (ETHZ), Nadia Figueroa (UPenn), Nikolai Matni (UPenn), Lisa Li (Michigan), Manfred Morari (UPenn), Alberto Sangiovanni-Vincentelli (UC Berkeley), Alberto Speranzon (Lockheed Martin), Paulo Tabuada (UCLA), and Gioele Zardini (MIT).
+The correct order of the talks (30 minutes each) is being determined, and will appear on the webpage.
+
+
+	</body>
+
+	<p style="margin-bottom:5cm;"></p>
+	
+</html>
