@@ -23,11 +23,11 @@ footer {
 
 h1, h2, h3, p, li {
   color: #484848;
-  line-height: 1.5;
 }
 
 h1 {
   margin: 1em 0px 1em 0px;
+  line-height: 3;
 }
 
 h2 {
